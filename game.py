@@ -10,7 +10,7 @@
 from pygame import*
 import math
 import random
-
+a = print('dd')
 init()
 mixer.init()
 
